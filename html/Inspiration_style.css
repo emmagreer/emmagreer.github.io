@@ -1,0 +1,88 @@
+body{
+    background-color: #EEE2DC;
+    margin: 10px;
+    font-family: 'Cutive Mono', monospace;
+    color: black;
+}
+
+.header{
+    background-color: #EEE2DC; 
+    color: #AC3B61;
+    height: 90px;
+}
+
+.nav{
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content{
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+.footer{
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    margin-top: 25px;
+    font-size: 2rem;
+    float: right;
+    color: #AC3B61;
+}
+
+.logo a{
+    color: #3AAFA9;
+    text-decoration: none;
+}
+
+.links a{
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.links a:hover{
+    color: #BAB2B5;
+}
+
+.links{
+    margin-top: 40px; 
+    font-size: 0.75rem;
+    float: left;
+}
+
+.endbanner a{
+    color: #3AAFA9;
+    text-decoration: none;
+}
+
+.endbanner{
+    margin-top: 20px;
+    margin-left: 360px;
+    margin-right: 240px;
+    margin-bottom: 10px;
+    color: black;
+    text-decoration: none;
+    float:left;
+}
+
+.artist{
+    float:left;
+    margin-left: 200px;
+    margin-right: 210px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.art{
+    float: left;
+    margin-left: 200px;
+    margin-right: 210px;
+    max-width: 400px;
+}
